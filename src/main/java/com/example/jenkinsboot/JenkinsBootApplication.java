@@ -17,6 +17,6 @@ public class JenkinsBootApplication {
 
     @GetMapping("/hello")
     public String hello(){
-        return "Hello.World! "+ LocalTime.now().toString();
+        return "Hello,World! "+ LocalTime.now().toString();
     }
 }
