@@ -59,7 +59,7 @@
 
 添加构建步骤-远程执行服务器上的shell脚本
 
-![image-20200820171520632](C:\Users\xjche\AppData\Roaming\Typora\typora-user-images\image-20200820171520632.png)
+![](https://i.loli.net/2020/08/20/T35GdYD9gwaUuiF.png)
 
 
 
