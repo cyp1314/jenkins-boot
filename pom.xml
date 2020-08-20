@@ -66,7 +66,7 @@
                     </execution>
                 </executions>
                 <configuration>
-                    <imageName>jenkins-boot</imageName>
+                    <imageName>${project.artifactId}:${project.version}</imageName>
                     <dockerHost>http://10.0.0.37:2375</dockerHost>
                     <baseImage>java:8</baseImage>
                     <entryPoint>["java","-jar","jenkins-boot.jar"]</entryPoint>
